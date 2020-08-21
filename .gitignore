@@ -1,0 +1,4 @@
+#Ignorar todos los archivos binarios y de texto.
+
+*.dat
+*.txt
