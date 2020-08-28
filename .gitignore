@@ -1,4 +1,17 @@
-#Ignorar todos los archivos binarios y de texto.
+#para ignorar archivos de la carpeta .vscode
+/**/.vscode/
 
-*.dat
+#ignorar todos los ejecutables windows y linux
+*.exe
+*ejecutable
+*.out
+
+#ignorar archivos .txt
 *.txt
+
+#aqui oculto todos los .dat
+*.dat
+
+#aqui oculto todas las imagenes
+*.jpeg
+*.png
